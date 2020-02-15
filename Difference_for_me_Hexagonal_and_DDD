@@ -4,5 +4,4 @@ First of all I think than the comparison it is not correct!
 Hexagonal it is an architecture, so if we choice this as our solution, we must to follow the "rigid" rules 
 of how to organize the code 
 
-DDD instead it is not an architecture it is an approch to software development, so if we choice this as our solution, 
-we will not have to follow the "rigid" rules how to organize the code  
+DDD instead it is not an architecture it is an approch to software development
