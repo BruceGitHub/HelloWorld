@@ -1,0 +1,2 @@
+Query method shouldn't change the state of the system and should return type
+Command method should change the state of the system but shoudn't have a return type
