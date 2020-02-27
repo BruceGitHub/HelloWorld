@@ -1,0 +1,4 @@
+I think that if I use a static method of the classe I must declare this dependency in constructor 
+in this situation 
+$aFoo = new Foo(); or Foo::bar();
+is identical 
