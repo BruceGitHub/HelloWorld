@@ -1,0 +1,8 @@
+1. Vo is a concept of the domain 
+2. Vo must be immutable
+3. Vo must a no identity
+4. Vo can be a collections but only of others Vos
+5. Vo must be interchangeably
+
+https://enterprisecraftsmanship.com/posts/representing-collection-as-value-object/
+http://dddsample.sourceforge.net/characterization.html#Value_Objects
