@@ -1,0 +1,3 @@
+I think that hinherit from a lib class it is a mistake because on my codebase I would only concept of my domain 
+each class must be have only the behavior that my application need. For i.e if I use direct a class of my lib
+In my code now exist the behavior that for my domain it isn't util
