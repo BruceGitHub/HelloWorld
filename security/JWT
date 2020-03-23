@@ -1,0 +1,18 @@
+remember the content is public but it is not editable without correct signature 
+
+if with jwt we use the asymmetric key pair we need a key managmente system to rotate the keys
+https://youtu.be/DPrhem174Ws?t=919
+claim *kid*
+JWK a jwt format to rappresent a crytopgraphic key directly in the header
+KWU a url that contains all public keys
+x5u a url that container all certificate of pubblic keys
+https://youtu.be/DPrhem174Ws?t=1264
+
+problem: validate the key from url 
+problem: dns control from attacker avoid the right check of claims
+https://youtu.be/DPrhem174Ws?t=1335
+
+openId 
+https://youtu.be/DPrhem174Ws?t=1514
+
+https://pragmaticwebsecurity.com/cheatsheets.html
