@@ -3,3 +3,8 @@ the value object it is a business concept, it is immutable, and very simple
     also the vaalue Object doesn’t have its own identity it contains a value
 
 for me the major difference is where are the two objects
+
+
+
+some referene
+https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/
