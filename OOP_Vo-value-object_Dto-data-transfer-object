@@ -1,0 +1,4 @@
+the dto is a very stupid class without any concept of logic it is a simple medium of transport
+the value object it is a business concept, it is immutable, and very simple 
+
+for me the major difference is where are the two objects
