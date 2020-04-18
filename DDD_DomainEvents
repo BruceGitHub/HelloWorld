@@ -1,0 +1,2 @@
+The domains events represents also the contract from from Domains object and DomainEvent
+for example if DomainEvent they need a CustomerId we are thid information before dispatch this event
