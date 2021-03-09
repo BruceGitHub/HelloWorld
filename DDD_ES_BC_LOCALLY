@@ -1,0 +1,5 @@
+In some cases, it's utils to use ES locally to bounded context 
+But ES isn't a trivial task the team must be skilled
+
+ES works well in the central parts of the flow depends on hot mutch it's transactional the BC 
+Remember ES isn't for whole applications but it's a local choice in the BC 
