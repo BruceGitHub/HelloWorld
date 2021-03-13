@@ -1,7 +1,5 @@
 ## It's start 
 
-It's start 
-
 Did I decide to start to write a blog why? 
 
 For grow, to keeps my thinkers, right or not...
