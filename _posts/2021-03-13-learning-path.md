@@ -1,7 +1,9 @@
+---
 layout: post
 title: "My First learning path"
 date: 2021-03-13
 categories: learning
+---
 
 These it's my learning path! 
 - I peek at a book
