@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First learning path"
-date: 2021-03-13
+date: 2021-03-13 15:19:23 -0700
 categories: learning
 published: true
 tags: demo markdown blog
