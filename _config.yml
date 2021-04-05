@@ -7,7 +7,7 @@ plugins:
 
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: https://brucegithub.github.io
 incremental: false
 highlighter: rouge
 gist:
