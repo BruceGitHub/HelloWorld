@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "About of users request to a distributed system"
 date: 2021-03-2
 categories: architetch 
