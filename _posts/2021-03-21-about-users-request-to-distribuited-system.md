@@ -1,9 +1,10 @@
 ---
-layout: theme
+layout: page
 title: "About of users request to a distributed system"
 date: 2021-03-2
 categories: architetch 
 published: false
+permalink: /blog/a
 ---
 
 https://milestone.topics.it/2021/01/12/feedback-to-users-requests-in-distributed-systems.html
