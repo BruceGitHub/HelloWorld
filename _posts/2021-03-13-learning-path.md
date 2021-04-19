@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "My First learning path"
-date: 2021-03-13 15:19:23 -0700
+date: 2021-03-13
+tags: general
 published: true
-tags: demo markdown blog
 permalink: /blog/learning-path
 ---
 
