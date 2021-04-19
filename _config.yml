@@ -1,17 +1,11 @@
 theme: jekyll-theme-hacker
 title: Notes, stories about a desperate developer
-baseurl: "/"
 
-plugins:
-  - jekyll-optional-front-matter
+permalink:           pretty
+relative_permalinks: true
 
-lsi: false
-safe: true
+paginate:         5
+paginate_path:    '/blog/page:num'
+
 source: https://brucegithub.github.io
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+
