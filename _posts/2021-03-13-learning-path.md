@@ -4,7 +4,7 @@ title: "My First learning path"
 date: 2021-03-13
 tags: general
 published: true
-permalink: /blog/learning-path
+permalink: /blog/Learning-path
 ---
 
 These it's my learning path! 
