@@ -2,7 +2,6 @@ theme: jekyll-theme-hacker
 title: Notes, stories about a desperate developer
 
 permalink:           pretty
-relative_permalinks: true
 
 paginate:         5
 paginate_path:    '/blog/page:num'
