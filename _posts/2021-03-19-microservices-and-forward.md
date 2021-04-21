@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-I watched this videos
+# I watched this videos
 [![Video](https://img.youtube.com/vi/YOJ0rQ2gn44/0.jpg)](https://www.youtube.com/watch?v=YOJ0rQ2gn44)
 
 <!-- more -->
@@ -68,6 +68,5 @@ Another video of microserices intersting for:
 - Backend for Frontend bffe
 - Data as Service
 
-
-[https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7](https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7)
+[![Video](https://img.youtube.com/vi/5ln0J6ROUio/0.jpg)](https://www.youtube.com/watch?v=5ln0J6ROUio)
 
