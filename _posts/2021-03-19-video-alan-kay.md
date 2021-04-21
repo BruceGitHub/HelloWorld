@@ -6,7 +6,9 @@ tags: video
 published: true
 ---
 
-https://www.youtube.com/watch?v=oKg1hTOQXoY&t=705s
+[https://www.youtube.com/watch?v=oKg1hTOQXoY&t=705s](https://www.youtube.com/watch?v=oKg1hTOQXoY&t=705s
+ "Link video to youtube")
+
 In comments each important moment during the talk it's annotated.
 
 For me in particular:
