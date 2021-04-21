@@ -11,7 +11,7 @@ published: true
 I watched this video, a few version of the same spitch in differnts conference
 
 Intersting for:
-- [Remove temporal coupling] (https://youtu.be/YOJ0rQ2gn44?t=773)
+- [Remove temporal coupling](https://youtu.be/YOJ0rQ2gn44?t=773)
 
 - [Snowball effect: When multiple request across multiple microservices](https://youtu.be/YOJ0rQ2gn44?t=808)
 
@@ -57,7 +57,7 @@ Intersting for:
 
 - [The logic structure of the microservices it's different for the deployment process](https://youtu.be/YOJ0rQ2gn44?t=4252)
   
-Full video: [](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
+[Full video](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
    
 Intersting for:
 - Pattern Api Composition 
@@ -65,5 +65,5 @@ Intersting for:
 - Eventual consistency
 - Backend for Frontend bffe
 - Data as Service
-[](https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7)
+[https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7](https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7)
 
