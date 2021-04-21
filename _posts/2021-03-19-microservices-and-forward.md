@@ -11,6 +11,7 @@ published: true
 I watched this videos
 
 [Full video](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
+<!-- more -->
 
 Intersting for:
 - [Remove temporal coupling](https://youtu.be/YOJ0rQ2gn44?t=773)
