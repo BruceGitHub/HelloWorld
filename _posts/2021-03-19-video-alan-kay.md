@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a"
+title: "Video Alan Key creator of SmallTalk"
 date: 2021-03-19
 tags: video 
 published: true
