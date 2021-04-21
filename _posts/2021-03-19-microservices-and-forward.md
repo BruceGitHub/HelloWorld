@@ -9,8 +9,8 @@ published: true
 ---
 
 I watched this videos
+[![Video](https://img.youtube.com/vi/YOJ0rQ2gn44&/0.jpg)](https://www.youtube.com/watch?v=YOJ0rQ2gn44&)
 
-[Full video](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
 <!-- more -->
 
 Intersting for:
