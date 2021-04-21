@@ -31,18 +31,15 @@ Intersting for:
   Saga talk:
    - https://www.youtube.com/watch?v=fjCVH_ZZy5o
    - https://www.youtube.com/watch?v=8wYWTTfKjUU
-
-
+   
 - [User mental model is misleading](https://youtu.be/YOJ0rQ2gn44?t=1638)
   - https://milestone.topics.it/2021/02/02/do-not-trust-the-user-mental-model.html
-
-
+  
 - [Domain Model De Composition](https://youtu.be/YOJ0rQ2gn44?t=1729)
     - https://link.springer.com/chapter/10.1007/978-94-011-5412-3_8
     - https://scholar.google.it/scholar?q=Domain+Model+DEComposition&hl=en&as_sdt=0&as_vis=1&oi=scholart
     - https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
-
-
+    
 - [We followed the coupling or CleanCode rule (Gather together the things that change for the same reasons. Separate those things that change for different reasons.)](https://youtu.be/YOJ0rQ2gn44?t=1969)
 
 - [Domain model Decomposition bring up a problem how shot the data for the final User ?](https://youtu.be/YOJ0rQ2gn44?t=2177)
@@ -69,5 +66,7 @@ Another video of microserices intersting for:
 - Eventual consistency
 - Backend for Frontend bffe
 - Data as Service
+
+
 [https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7](https://www.youtube.com/watch?v=5ln0J6ROUio&list=PL4aQqo_Y7KC2vrvjn-rAJRi0XPUE7zvOF&index=7)
 
