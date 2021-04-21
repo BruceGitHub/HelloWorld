@@ -6,7 +6,6 @@ tags:
  - architect
  - microservices
 published: true
-permalink: /blog/microservices-and-forward
 ---
 
 I watched this video, a few version of the same spitch in differnts conference
