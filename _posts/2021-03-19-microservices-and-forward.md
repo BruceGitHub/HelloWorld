@@ -9,7 +9,7 @@ published: true
 ---
 
 I watched this videos
-[![Video](https://img.youtube.com/vi/YOJ0rQ2gn44&/0.jpg)](https://www.youtube.com/watch?v=YOJ0rQ2gn44&)
+[![Video](https://img.youtube.com/vi/YOJ0rQ2gn44/0.jpg)](https://www.youtube.com/watch?v=YOJ0rQ2gn44)
 
 <!-- more -->
 
