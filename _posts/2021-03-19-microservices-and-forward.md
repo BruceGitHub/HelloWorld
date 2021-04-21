@@ -5,11 +5,13 @@ date: 2021-03-21
 tags:
  - architect
  - microservices
+ - video
+ - learn-path
 published: true
 ---
 
 # I watched this videos
-[![Video](https://img.youtube.com/vi/YOJ0rQ2gn44/0.jpg)](https://www.youtube.com/watch?v=YOJ0rQ2gn44)
+[![Video](https://img.youtube.com/vi/YOJ0rQ2gn44/0.jpg)](https://youtu.be/YOJ0rQ2gn44?t=19)
 
 <!-- more -->
 
