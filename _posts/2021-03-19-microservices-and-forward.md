@@ -8,7 +8,9 @@ tags:
 published: true
 ---
 
-I watched this video, a few version of the same spitch in differnts conference
+I watched this videos
+
+[Full video](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
 
 Intersting for:
 - [Remove temporal coupling](https://youtu.be/YOJ0rQ2gn44?t=773)
@@ -29,14 +31,17 @@ Intersting for:
   Saga talk:
    - https://www.youtube.com/watch?v=fjCVH_ZZy5o
    - https://www.youtube.com/watch?v=8wYWTTfKjUU
-  
+
+
 - [User mental model is misleading](https://youtu.be/YOJ0rQ2gn44?t=1638)
   - https://milestone.topics.it/2021/02/02/do-not-trust-the-user-mental-model.html
+
 
 - [Domain Model De Composition](https://youtu.be/YOJ0rQ2gn44?t=1729)
     - https://link.springer.com/chapter/10.1007/978-94-011-5412-3_8
     - https://scholar.google.it/scholar?q=Domain+Model+DEComposition&hl=en&as_sdt=0&as_vis=1&oi=scholart
     - https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
+
 
 - [We followed the coupling or CleanCode rule (Gather together the things that change for the same reasons. Separate those things that change for different reasons.)](https://youtu.be/YOJ0rQ2gn44?t=1969)
 
@@ -44,7 +49,8 @@ Intersting for:
 
 - [ViewModelComposition](https://youtu.be/YOJ0rQ2gn44?t=2314)
     - https://milestone.topics.it/categories/view-model-composition
-  
+   
+   
 - [Full vertical slices](https://youtu.be/YOJ0rQ2gn44?t=2599)
     - Note: The domain expert describes the domain but not how to create it. 
     - To create the domain we need to organize behavior and data in a property way for microservices
@@ -56,10 +62,8 @@ Intersting for:
 - [Important Details of ViewModelComposition / Reverse proxy / Deploy etc](https://youtu.be/YOJ0rQ2gn44?t=4177)
 
 - [The logic structure of the microservices it's different for the deployment process](https://youtu.be/YOJ0rQ2gn44?t=4252)
-  
-[Full video](https://www.youtube.com/watch?v=YOJ0rQ2gn44&t=1949s)
-   
-Intersting for:
+     
+Another video of microserices intersting for:
 - Pattern Api Composition 
 - Strong consistency 
 - Eventual consistency
