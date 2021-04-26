@@ -67,7 +67,7 @@ Another video of microserices intersting for:
 - Pattern Api Composition 
 - Strong consistency 
 - Eventual consistency
-- Backend for Frontend bffe
+- Backend for Frontend BFFE
 - Data as Service
 
 [![Video](https://img.youtube.com/vi/5ln0J6ROUio/0.jpg)](https://www.youtube.com/watch?v=5ln0J6ROUio)
