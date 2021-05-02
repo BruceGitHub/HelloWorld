@@ -13,6 +13,10 @@ Let's start.
 About me... I'm a thinker, I wonder about everything,
 I curious, I tremendous want to learn, I’m hungry for learning. 
 
+This blog's a collection of posts, notes, and other stuff... 
+This it's I will hope, my contribution, in response for all people that write a blog post, register video, etc 
+
+from which I learn many things each day ...
 
 ### My learning path
 
