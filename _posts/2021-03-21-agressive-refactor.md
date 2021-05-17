@@ -6,7 +6,7 @@ tags:
  - architect
  - blog
  - learn-path
-published: false
+published: true
 ---
 
 [https://martinfowler.com/articles/is-quality-worth-cost.html](https://martinfowler.com/articles/is-quality-worth-cost.html)
