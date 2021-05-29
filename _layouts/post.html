@@ -10,9 +10,7 @@ layout: default
 
   {% include base_path %}
 
-    {% if site.tag_archive.type and page.tags[0] %}
-      {% include tag-list.html %}
-    {% endif %}
+  {% include tag-list.html %}
   
   {{ content }}
 </div>
