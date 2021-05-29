@@ -23,4 +23,4 @@ this technique can be helpful for start in a pragmatic way to manage the design,
 
 
 Disclaimer:
-These are only my thoughts. These could be totally wrongs, so if you will try to use them, you don't forget about this aspect!
+These are only my thoughts. These could be totally wrong, so if you will try to use them, don't forget about this aspect!
