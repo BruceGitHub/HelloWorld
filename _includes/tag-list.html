@@ -1,5 +1,6 @@
   {% for tag in page.tags %}
-     <a href="#{{ tag | slugify }}" class="codinfox-tag-mark">{{ tag }}</a>&nbsp;
+     <a href="/HelloWorld/blog/tag/#{{ tag | slugify }}" class="codinfox-tag-mark">{{ tag }}</a>&nbsp;
+
   {% endfor %}
   {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
 
