@@ -1,5 +1,5 @@
   {% for tag in page.tags %}
-     <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a>
+     <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a>&nbsp;&nbsp;
   {% endfor %}
   {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
 
