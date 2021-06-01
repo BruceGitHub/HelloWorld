@@ -1,5 +1,5 @@
   {% for tag in page.tags %}
-     {{ tag | downcase }}{% unless forloop.last %},{% endunless %}
+     <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a>, {% endunless %}
   {% endfor %}
   {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
 
